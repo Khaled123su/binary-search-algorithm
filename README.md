@@ -1,3 +1,3 @@
 # binary-search-algorithm
-binary sort algorithm in python
+binary search algorithm in python
 this program uses recrusion and some other programing basics
